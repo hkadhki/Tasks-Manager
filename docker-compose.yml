@@ -14,6 +14,7 @@ services:
       - POSTGRES_PASSWORD=postgres
       - POSTGRES_DATABASE=postgres
 
+
   TaskManager:
     image: task:latest
     container_name: "task_manager"
