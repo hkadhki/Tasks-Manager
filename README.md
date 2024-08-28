@@ -14,9 +14,9 @@
 
  ## Стартовые пользователи:
 
- Username: "User1@gmail.com" Password: "USER" Role: "USER"
+ Email: "User1@gmail.com" Username: "User1" Password: "USER" Role: "USER"
  
- Username: "User2@gmail.com" Password: "USER" Role: "ADMIN"
+ Email: "User2@gmail.com" Username: "User2" Password: "USER" Role: "ADMIN"
 
  ## Запуск приложения 
 Запустить `docker-compose.yml` командой `docker-compose up -d`.
